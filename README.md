@@ -51,7 +51,7 @@ Proyek ini adalah pengembangan aplikasi mobile sederhana menggunakan framework I
 <img src="login.png" alt="Screenshot Halaman Login" width="200"/>
 
 ### Screenshot Gagal Login
-<img src="gagal-login.png" alt="Screenshot Gagal Login" width="200"/>
+<img src="login-gagal.png" alt="Screenshot Gagal Login" width="200"/>
 
 ### Screenshot Halaman Utama
 <img src="home.png" alt="Screenshot Halaman Utama" width="200"/>
